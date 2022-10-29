@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/calorie-tracker/static/css/main.6cfff724.chunk.css",
+    "main.js": "/calorie-tracker/static/js/main.ac2401e0.chunk.js",
+    "main.js.map": "/calorie-tracker/static/js/main.ac2401e0.chunk.js.map",
+    "runtime-main.js": "/calorie-tracker/static/js/runtime-main.154238ea.js",
+    "runtime-main.js.map": "/calorie-tracker/static/js/runtime-main.154238ea.js.map",
+    "static/js/2.25db011e.chunk.js": "/calorie-tracker/static/js/2.25db011e.chunk.js",
+    "static/js/2.25db011e.chunk.js.map": "/calorie-tracker/static/js/2.25db011e.chunk.js.map",
+    "index.html": "/calorie-tracker/index.html",
+    "precache-manifest.d4091e06bc982763e2b68396b849530c.js": "/calorie-tracker/precache-manifest.d4091e06bc982763e2b68396b849530c.js",
+    "service-worker.js": "/calorie-tracker/service-worker.js",
+    "static/css/main.6cfff724.chunk.css.map": "/calorie-tracker/static/css/main.6cfff724.chunk.css.map",
+    "static/js/2.25db011e.chunk.js.LICENSE.txt": "/calorie-tracker/static/js/2.25db011e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.154238ea.js",
+    "static/js/2.25db011e.chunk.js",
+    "static/css/main.6cfff724.chunk.css",
+    "static/js/main.ac2401e0.chunk.js"
+  ]
+}
